@@ -1,7 +1,7 @@
 # Rule30
 An efficient algorithm for computing the n-th row of Wolfram's Rule 30. 
 
-It works by handling each row of Rule30 in a compressed way by storing only the indexes of the columns with value 1 (all other columns are assumed to have value 0). This makes calculations much faster and reduces the space complexity of the output.
+It works by handling each row of Rule30 in a compressed way by storing only the indexes of the columns with value $1$ (all other columns are assumed to have value 0). This makes calculations much faster and reduces the space complexity of the output.
 
 For example:
 
